@@ -5,12 +5,12 @@ body, html {
     height: 100%;
     margin: 0;
     overflow: auto;
-    background: linear-gradient(to bottom, #5c76a5, #5d83c4);
-    color: #fff;
+    background: linear-gradient(to bottom, #0b77eb, #be0b0b);
+    color: #ffffff;
 }
 
 .bg-light {
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    background: linear-gradient(to right, #f4c647, #f2f846);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -43,12 +43,12 @@ body, html {
 }
 
 table tr:nth-child(odd) td {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.419);
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #ff7e5f;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.145);
 }
 
 a {
@@ -65,4 +65,8 @@ legend {
     padding-bottom: 10px;
     color: #ff7e5f;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+caption {
+    color: green;
 }

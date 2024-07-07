@@ -3142,5 +3142,16 @@
     "status": "Full Time",
     "course": "7",
     "studentNum": 262
+  },
+  {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "addressStreet": "",
+    "addressCity": "",
+    "addressProvince": "",
+    "course": "1",
+    "TA": false,
+    "studentNum": 263
   }
 ]
